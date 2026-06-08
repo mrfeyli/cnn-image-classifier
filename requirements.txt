@@ -5,3 +5,6 @@ torchvision
 pillow
 numpy
 python-multipart
+streamlit
+requests
+pillow
